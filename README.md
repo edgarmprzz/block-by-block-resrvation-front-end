@@ -10,7 +10,13 @@
     ```
 
 ## Working Environment
-2. **Build image:** \
+
+# Local
+2. **Using Node locally:**
+    ```npm run dev```
+
+# Container
+3. **Build image:** \
    **Podman:**
     ```podman build -t reservation-frontend-dev .```
    **Docker:**

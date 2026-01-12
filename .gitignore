@@ -1,3 +1,26 @@
-node_modules
+# reservation-frontend app dependencies
+reservation-frontend/node_modules/
+
+# Next.js build output
+reservation-frontend/.next/
+reservation-frontend/out/
+
+# Logs
+reservation-frontend/npm-debug.log*
+reservation-frontend/yarn-debug.log*
+reservation-frontend/pnpm-debug.log*
+
+# Environment variables (reservation-frontend only)
+reservation-frontend/.env.local
+reservation-frontend/.env.*.local
+
+# TypeScript build cache
+reservation-frontend/*.tsbuildinfo
+
+# OS files
 .DS_Store
-reservation-frontend/.next
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
