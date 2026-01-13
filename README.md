@@ -23,7 +23,7 @@
    **Docker:** \
     ```Docker build -t reservation-frontend-dev .```
 
-   **Run container (Podman):** \
+4. **Run container (Podman):** \
     ```podman run -p 3000:3000 reservation-frontend-dev```
 
    **Run container (Docker):** \
