@@ -12,7 +12,7 @@
 ## Working Environment
 
 ## Local
-2. **Using Node locally:**
+2. **Using Node locally:** \
     ```npm run dev```
 
 ## Container
