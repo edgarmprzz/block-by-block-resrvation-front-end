@@ -17,12 +17,14 @@
 
 ## Container
 3. **Build image:** \
-   **Podman:**
+   **Podman:** \
     ```podman build -t reservation-frontend-dev .```
-   **Docker:**
+    
+   **Docker:** \
     ```Docker build -t reservation-frontend-dev .```
 
-   **Run container (Podman):**
+   **Run container (Podman):** \
     ```podman run -p 3000:3000 reservation-frontend-dev```
-   **Run container (Docker):**
+
+   **Run container (Docker):** \
     ```Docker run -p 3000:3000 reservation-frontend-dev```
