@@ -9,7 +9,7 @@
     cd reservation-frontend
     ```
 
-## Working Environment
+# Working Environment
 
 ## Local
 2. **Using Node locally:** \
@@ -19,7 +19,7 @@
 3. **Build image:** \
    **Podman:** \
     ```podman build -t reservation-frontend-dev .```
-    
+
    **Docker:** \
     ```Docker build -t reservation-frontend-dev .```
 
